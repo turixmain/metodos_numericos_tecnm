@@ -62,7 +62,7 @@ Desarrollar la capacidad de **analizar, seleccionar e implementar métodos numé
 
 - **Lenguajes**: Python, MATLAB, C++
 - **Bibliotecas**: NumPy, SciPy, Matplotlib
-- **Software**: MATLAB/Octave, Mathematica
+- **Software**: MATLAB/SCILAB, Mathematica
 - **Entornos**: Jupyter Notebook, VS Code
 
 ---
@@ -76,15 +76,14 @@ Desarrollar la capacidad de **analizar, seleccionar e implementar métodos numé
 | **Eléctrica** | Análisis de circuitos, procesamiento de señales |
 | **Química** | Cinética de reacciones, equilibrio de fases |
 | **Industrial** | Optimización, control de calidad |
+| **Mecatrónica** | Control de sistemas robóticos |
 
 ---
 
 ## 📊 Evaluación
 
-- **Exámenes Parciales**: 60%
-- **Proyectos y Tareas**: 25%
-- **Participación y Prácticas**: 15%
-
+- **Exámenes Parciales**: 50%
+- **Proyectos y Tareas**: 50%
 ---
 
 ## 📚 Bibliografía Recomendada
